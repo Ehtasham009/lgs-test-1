@@ -173,10 +173,10 @@ canvas {
     --size: 260px;
   }
   #marsloc {
-    --size: 260px;
+    --size: 257px !important;
   }
   canvas {
-    --size: 260px;
+    --size: 257px !important;
   }
 }
 
@@ -185,10 +185,10 @@ canvas {
     --size: 230px;
   }
   #marsloc {
-    --size: 230px;
+    --size: 227px !important;
   }
   canvas {
-    --size: 230px;
+    --size: 227px !important;
   }
   .title-area .title {
     font-size: 120px;
@@ -225,10 +225,10 @@ canvas {
     --size: 200px;
   }
   #marsloc {
-    --size: 200px;
+    --size: 197px !important;
   }
   canvas {
-    --size: 200px;
+    --size: 197px;
   }
   .title-area .title {
     font-size: 100px;
