@@ -1,4 +1,4 @@
-let clock = new THREE.Clock();
+/* let clock = new THREE.Clock();
 
 let planetHolder = document.querySelector('.planet-holder')
 
@@ -74,8 +74,9 @@ marsloc.addEventListener('mouseup', function() {
   marsloc.style.cursor = "grab";
 })
 
+*/
 
-document.querySelector('.planet-holder').addEventListener('click', function () {
+document.querySelector('.planet-gif').addEventListener('click', function () {
   document.querySelector('body').classList.add('active-book')
 })
 

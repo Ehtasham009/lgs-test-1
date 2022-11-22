@@ -19,6 +19,9 @@ body {
 
 .planet-holder{--size: 300px; height: var(--size); width: var(--size); overflow: hidden; border-radius: var(--size); border: 1px solid transparent; cursor: grab; box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3);}
 
+.image-holder{display: flex; width: 100%;}
+.image-holder img{min-width: 100%; max-width: 100%; object-fit: cover;}
+
 canvas{
   --size: 300px !important;
   width: var(--size) !important;
